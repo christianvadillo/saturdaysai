@@ -28,6 +28,10 @@ wordcloud = "*"
 lightgbm = "*"
 catboost = "*"
 xgboost = "*"
+notebook = ">=5.3"
+ipywidgets = ">=7.5"
+jupyterlab = "*"
+nodejs = "*"
 
 [requires]
 python_version = "3.7"
