@@ -89,3 +89,4 @@ target/
 .mypy_cache/
 .virual_documents
 word_cloud/
+*.pkl
